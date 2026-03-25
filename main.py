@@ -11,3 +11,14 @@ from  rich import print
 import requests
 
 print(sys.version)
+
+
+import pygame
+
+def main():
+    print("Hello from Chattanooga!")
+
+
+if __name__ == "__main__":
+    main()
+    
